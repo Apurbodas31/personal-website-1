@@ -73,6 +73,10 @@ img {
 footer h1 {
   font-weight: bold;
 }
+footer {
+  background-image: url("images/footer-bg.png");
+  background-repeat: no-repeat;
+}
 .one,
 .two,
 .three {
